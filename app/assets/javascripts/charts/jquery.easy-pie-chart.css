@@ -1,0 +1,19 @@
+.easyPieChart{position:relative;text-align:center;}.easyPieChart canvas{position:absolute;top:0;left:0;}
+.social-box .body {
+clear: both;
+padding: 0;
+padding: 12px;
+background: #fff;
+}
+#g1 {
+width: 350px;
+height: 280px;
+display: inline-block;
+margin: 1em;
+}
+#g2, #g3, #g4 {
+width: 100px;
+height: 80px;
+display: inline-block;
+margin: 1em;
+}
